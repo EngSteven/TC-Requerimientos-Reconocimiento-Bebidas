@@ -1,0 +1,4 @@
+0 Coca-Cola
+1 Tropical
+2 Vaso-Vidrio
+3 Otro

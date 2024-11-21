@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ObjectDetectionV1</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_map_api_key">AIzaSyDVe3mzzi4N6A6k9XUGwuh3XpDyy6G9w5c</string>
+</resources>

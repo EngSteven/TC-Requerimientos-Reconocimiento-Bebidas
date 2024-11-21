@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_item_home"
+            android:icon="@drawable/ic_home"
+            android:title="Inicio"
+            ></item>
+        <item
+            android:id="@+id/nav_item_one"
+            android:icon="@drawable/ic_camera"
+            android:title="Reconocimiento de bebidas"
+        ></item>
+        <item
+            android:id="@+id/nav_item_two"
+            android:icon="@drawable/ic_map"
+            android:title="Abrir mapa"
+        ></item>
+    </group>
+
+
+</menu>
